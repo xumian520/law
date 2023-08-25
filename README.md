@@ -11,19 +11,19 @@
 <table>
   <tr>
     <td width="200px" align="center">
-      <a href="https://magickpen.com/?ref=lawcnai" target="_blank">
+      <a href="#" target="_blank">
         <img alt="MagickPen" src="public/MagickPen.png" height="30px" />
         <p>智能写作助手</p>
       </a>
     </td>
    <td width="200px" align="center">
-      <a href="https://www.teach-anything.com/?ref=lawcnai" target="_blank">
+      <a href="#" target="_blank">
         <img alt="TeachAnything" src="public/TeachAnything.png" height="30px" />
         <p>AI 百科全书</p>
       </a>
     </td>
     <td width="200px" align="center">
-      <a href="https://better.avatarprompt.net/?ref=lawcnai" target="_blank">
+      <a href="#" target="_blank">
         <img alt="TeachAnything" src="public/BetterPrompt.png" height="30px" />
         <p>Prompt 生成器</p>
       </a>
@@ -31,13 +31,13 @@
   </tr>
   <tr>
    <td width="200px" align="center">
-      <a href="https://openl.io/?ref=lawcnai" target="_blank">
+      <a href="#" target="_blank">
         <img alt="OpenL" src="public/OpenL.png" height="30px" />
         <p>AI 翻译专家</p>
       </a>
     </td>
    <td width="200px" align="center">
-      <a href="https://afdian.net/a/lvwzhen/plan" target="_blank">
+      <a href="#" target="_blank">
         <p>❤️ 打赏赞助 ❤️ </p>
       </a>
     </td>
